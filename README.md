@@ -13,8 +13,23 @@ Building use: Typology            Location: Climate, latitude, longitude        
 
 
 
-Outcomes            Annual Energy Use          Peak Energy Demand
+Outcomes         
+
+   
+   Annual Energy Use      
+   
+   
+   
+   Peak Energy Demand
+
+
+
+
+
 Metrics
+
+
+
 Energy Use Intensity (Watt-hour/ Square Feet - Year)
 Peak Energy Demand (Watts)
 Envelope Gain (Watts/Square Feet)
@@ -23,7 +38,28 @@ Envelope Gain (Watts/Square Feet)
 
 
 Problem Statements
+
+
+
+
+
 Develop a data structure that will serve as a database for machine learning models. It need not be comprehensive, but should be able to conceptually explain Problem Statement 2.
-Explain briefly the conceptual working of ML (irrespective of chosen model). Explicitly identify how you will identify key parameters that influence energy use or demand and what will be the basis of this determination.
-How do you plan to go about doing this in the span of 2 months?
-Can you suggest an ML algorithm and dataset size (number of records) required for successful implementation of ML models? (Optional).
+
+
+
+
+
+2-Explain briefly the conceptual working of ML (irrespective of chosen model). Explicitly identify how you will identify key parameters that influence energy use or demand and what will be the basis of this determination.
+
+
+
+
+3-How do you plan to go about doing this in the span of 2 months?
+
+
+
+
+
+
+
+4-Can you suggest an ML algorithm and dataset size (number of records) required for successful implementation of ML models? (Optional).
