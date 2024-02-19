@@ -18,6 +18,10 @@ Metrics
 Energy Use Intensity (Watt-hour/ Square Feet - Year)
 Peak Energy Demand (Watts)
 Envelope Gain (Watts/Square Feet)
+
+
+
+
 Problem Statements
 Develop a data structure that will serve as a database for machine learning models. It need not be comprehensive, but should be able to conceptually explain Problem Statement 2.
 Explain briefly the conceptual working of ML (irrespective of chosen model). Explicitly identify how you will identify key parameters that influence energy use or demand and what will be the basis of this determination.
