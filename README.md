@@ -5,24 +5,15 @@ Energy use (say KWh), energy demand (say KW), and occupant thermal comfort (to a
 Intent
 From a dataset of building simulation models, we would like to predict the energy use, demand and occupant thermal comfort of any given building.
 Data points (for each building)
+
 Inputs
-Building use: Typology
-Location: Climate, latitude, longitude
-Building geometry/form & orientation
-Aspect Ratio
-Orientation
-Building Areas (Floor area of air-conditioned spaces)
-Product of Material Conductance and Environment Exposed Areas (U*A)...etc.
-Lighting systems
-Installed lighting in watts per square feet (say 2 18W LED tubes in 100 SF space is 0.36 W/SF)
-Equipment
-Installed equipment in watts per square feet
-HVAC Systems (implies air conditioning and heating systems)
-Capacity
-Efficiency
-Outcomes
-Annual Energy Use
-Peak Energy Demand
+
+
+Building use: Typology            Location: Climate, latitude, longitude            Building geometry/form & orientation            Aspect Ratio            Orientation            Building Areas (Floor area of air-conditioned spaces)            Product of Material Conductance and Environment Exposed Areas (U*A)...etc.            Lighting systems            Installed lighting in watts per square feet (say 2 18W LED tubes in 100 SF space is 0.36 W/SF)            Equipment          Installed equipment in watts per square feet          HVAC Systems (implies air conditioning and heating systems)            Capacity            Efficiency
+
+
+
+Outcomes            Annual Energy Use          Peak Energy Demand
 Metrics
 Energy Use Intensity (Watt-hour/ Square Feet - Year)
 Peak Energy Demand (Watts)
